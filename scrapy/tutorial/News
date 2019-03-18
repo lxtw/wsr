@@ -1,0 +1,206 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>站长建站资讯-DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.</title>
+<meta name="description" content="站长建站资讯频道：覆盖WEB标准、搜索引擎优化、网络编程、联盟资讯等方面，为站长提供实用的建站资讯！" />
+<meta name="keywords" content="WEB标准,搜索引擎优化,网络编程,联盟资讯,网站目录,分类目录,网站分类目录,网址导航,网址大全,网页目录,行业分类" />
+<meta name="Copyright" content="未征得dmozdir.org和原作者同意之前，请勿转载本站的原创文章、原创图片用于任何商业用途!" />
+<meta name="author" content="点燃一支烟" />
+<meta name="robots" content="follow, all" />
+<link rel="alternate" type="application/rss+xml" href="http://www.dmozdir.org/Rss/" title="订阅最近最近更新(rss2)" />
+<link rel="shortcut icon" href="http://www.dmozdir.org/favicon.ico" />
+<link href="http://www.dmozdir.org/skin/blue/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.dmozdir.org/Config/js/js.js"></script>
+<script type="text/javascript" src="http://www.dmozdir.org/Config/js/ClickStat.js"></script>
+</head>
+<body onLoad="initJS()">
+<div id="container">
+	<!--s=topbar-->
+	<div id="topbar">
+		<div class="toptext">
+			<strong>DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.</strong>
+			<ul>
+				<li class="first"><a href="javascript:;" target="_self" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.dmozdir.org/');return false;">设为首页</a></li>
+				<li><a href="javascript:;" onclick="copyToClipBoard();">推荐本站给好友</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--e=end-->
+
+	<!--s=maincontainer-->
+	<div id="main">
+		<!--s=header-->
+		<div class="header">
+			<h1><a href="http://www.dmozdir.org/" title="DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.由人工编辑,并提供网站分类目录检索及地区分类目录检索,是站长免费推广网站的有力平台!">DMOZ中文网站分类目录-免费收录各类优秀网站的中文网站目录.</a></h1>
+			<ul class="header-nav">
+			
+				<li><a href="http://www.dmozdir.org/User/UserReg.asp">免费注册</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserLogin.asp">登录管理</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add" target="_blank">提交网站</a></li>
+				<li class="userinfo">您好，欢迎来DMOZ中文网站分类目录！</li>
+			
+			</ul>
+			<!--s=topmenu-->
+			<div class="menu">
+				<ul class="topmenu">
+					<li class="thome"><a href="http://www.dmozdir.org/"><span>DmozDir首页</span></a></li>
+					<li class="tadd"><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add"><img src="http://www.dmozdir.org/skin/blue/Images/hot_b.gif" /><span>提交网站</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnew"><a href="http://www.dmozdir.org/New.asp"><span>最新收录</span></a></li>
+					<li class="tline">|</li>
+					<li class="tgoin"><a href="http://www.dmozdir.org/Goin.asp"><span>入站排行榜</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnews"><a href="http://www.dmozdir.org/News/"><span>建站资讯</span></a></li>
+					<li class="tline">|</li>
+					<li class="tnews"><a href="http://www.dmozdir.org/About/"><span>了解本站</span></a></li>
+				</ul>
+			</div>
+			<!--e=topmenu-->
+			<h3 id="bigClassList" class="bigClassList" onmouseover="this.className='bigClassListOver'" onmouseout="this.className='bigClassList'">
+				<a href="javascript://">目录分类</a>
+				<ul class="ulList">
+					<li><a href="http://www.dmozdir.org/Category/?Path=1">娱乐休闲</a></li><li><a href="http://www.dmozdir.org/Category/?Path=3">工商与经济</a></li><li><a href="http://www.dmozdir.org/Category/?Path=4">电脑与网络</a></li><li><a href="http://www.dmozdir.org/Category/?Path=5">公司与企业</a></li><li><a href="http://www.dmozdir.org/Category/?Path=6">教育与培训</a></li><li><a href="http://www.dmozdir.org/Category/?Path=7">文学</a></li><li><a href="http://www.dmozdir.org/Category/?Path=8">艺术</a></li><li><a href="http://www.dmozdir.org/Category/?Path=9">体育与健身</a></li><li><a href="http://www.dmozdir.org/Category/?Path=10">新闻与媒体</a></li><li><a href="http://www.dmozdir.org/Category/?Path=11">卫生与健康</a></li><li><a href="http://www.dmozdir.org/Category/?Path=12">科学/文化</a></li><li><a href="http://www.dmozdir.org/Category/?Path=13">生活与服务</a></li><li><a href="http://www.dmozdir.org/Category/?Path=14">旅游与交通</a></li><li><a href="http://www.dmozdir.org/Category/?Path=16">政治/法律/军事</a></li><li><a href="http://www.dmozdir.org/Category/?Path=17">社会科学</a></li>
+				</ul>
+			</h3>
+			<h3 id="ProvinceList" class="bigClassList" onMouseOver="this.className='bigClassListOver'" onMouseOut="this.className='bigClassList'">
+				<a href="javascript://">地区分类</a>
+				<ul class="ulList">
+					<li><a href="http://www.dmozdir.org/Area/?ProvinceID=1000">北京</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1001">上海</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1002">天津</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1003">重庆</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1004">浙江省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1005">广东省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1006">江苏省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1007">河北省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1008">山西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1009">四川省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1010">河南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1011">辽宁省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1012">吉林省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1013">黑龙江省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1014">山东省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1015">安徽省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1016">福建省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1017">湖北省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1018">湖南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1019">海南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1020">江西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1021">贵州省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1022">云南省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1023">陕西省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1024">甘肃省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1025">广西区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1026">宁夏区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1027">青海省</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1028">新疆区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1029">西藏区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1030">内蒙古区</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1031">香港</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1032">澳门</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1033">台湾</a></li><li><a href="http://www.dmozdir.org/Area/?ProvinceID=1034">国外</a></li>
+				</ul>
+			</h3>
+		</div>
+		<!--e=header-->
+
+		<div class="tsch">
+			<span class="tschL"></span>
+			<span class="tschR"></span>
+			<div class="tschBox">
+				<form name="TopSearch" action="http://www.dmozdir.org/" method="get">
+					<input name="Keyword" type="text" class="infile"  title="请输入关键词|Please Input The Keywords" value="" />
+					<span class="stype">
+						<span class="stypeinner">
+							<select name="SearchType" class="type">
+								<option value="Title">网站名称</option>
+								<option value="Content">网站描述</option>
+								<option value="Domain">网站域名</option>
+								<option value="Tag">TAG关键词</option>
+							</select>
+						</span>
+					</span>
+					<button type="submit" class="btn" title="搜索|Search" />搜 索</button>
+					<em class="text"><a href="http://www.dmozdir.org/User/UserHelp.asp">搜索帮助?</a></em>
+				</form>
+			</div>
+			<ul class="tschKey">
+<a href="http://www.chuchenhb.com/xiaoxingchuchenqi.html" target="_blank">小型除尘器</a> <a href="http://www.chuchenhb.com/maichongchuchenqi.html" target="_blank">脉冲除尘器</a> <a href="http://www.chuchenhb.com/budaichuchenqi.html" target="_blank">布袋除尘器</a> <a href="http://www.chuchenhb.com/chuchengujia.html" target="_blank">除尘器骨架</a> <a href="http://www.chuchenhb.com/chuchenbudai.html" target="_blank">除尘器布袋</a> <a href="http://www.chuchenhb.com/diancimaichongfa.html" target="_blank">电磁脉冲阀</a> <a href="http://www.chuchenhb.com/danjichuchenqi.html" target="_blank">单机除尘器</a> <a href="http://www.chuchenhb.com/xuanfengchuchenqi.html" target="_blank">旋风除尘器</a> <a href="http://www.bthbchuchen.com" target="_blank">脉冲布袋除尘器</a>
+			</ul>
+		</div>
+		<div class="site-notice"><a href="http://www.dmozdir.org/tjshoulu.html" target="_blank"><font color="#ff0000"><b>DMOZ目录快速登录入口</b></font></a>-免费收录各类优秀网站的中文网站目录.由人工编辑,并提供网站分类目录检索及地区分类目录检索,是站长免费推广网站的有力平台!</div>
+		<div class="pageNaviGation">
+			当前位置：<a href="http://www.dmozdir.org/">DMOZ中文网站分类目录</a> &gt; <a href="http://www.dmozdir.org/News/">站长建站资讯</a> &gt; <strong>所有资讯</strong>
+
+			<div class="showUserInfo"><strong>DMOZ中文网站分类目录</strong> - 网站免费登录, 免费推广</div>
+		</div>
+		<div id="mainWrapper">
+			<div id="mainInner">
+				<div class="conBox">
+					<h3>站长建站资讯</h3>
+					<div class="newssort">
+						<ul>
+							<li class="check"><a href="http://www.dmozdir.org/News/" title=""><strong>资讯首页</strong></a></li>
+							<li><a href="http://www.dmozdir.org/News/?BigClass=1">WEB标准专栏</a></li><li><a href="http://www.dmozdir.org/News/?BigClass=2">搜索引擎优化</a></li><li><a href="http://www.dmozdir.org/News/?BigClass=3">网络编程专栏</a></li><li><a href="http://www.dmozdir.org/News/?BigClass=4">联盟资讯专栏</a></li>
+							<li><a href="../Tags.asp?RType=News">TAG标签</a></li>
+						</ul>
+					</div>
+					<ul class="news"><li class="list-title"><h2><span>2017-05-20 | Views 279</span><a href="?CID=16" target="_blank">SEO网站外链该如何增加</a></h2><p class="list-abstract">从事SEO工作，我们总是离不开两个主题：内容和网站链接。这两个方面的操作，有时你不能启动，有时候让你爱和恨，有时候让你在操作中可能会颠覆你已经是SEO的价值观念。今天，作者和大家分享一个话题：网站外链的增加。</p></li><li class="list-title"><h2><span>2017-05-18 | Views 270</span><a href="?CID=15" target="_blank">现在SEO还不过时吗,REO时代到来了</a></h2><p class="list-abstract">作为非高级SEOer，我对对我带来生活改变的行业充满了感激和热爱。 没有抓住井喷的时代，或者是我的井喷时代，没有机会接触这条线。现在，SEO太成熟了，所以下降。 除了过去，依靠SEO的主题 - 百度，去年爆发了全面的信心危机，使转换率持续下滑。 这使得行业前景越来越暗淡。</p></li><li class="list-title"><h2><span>2017-05-16 | Views 248</span><a href="?CID=14" target="_blank">网站页面SEO优化的技巧</a></h2><p class="list-abstract">第一个是页面的三个元素：标题，关键字，描述。标题是页面标题，关键字是关键字，描述是页面描述。想要做一个字排名，这三个要素必须包含你的关键字，频率稍高一些。</p></li><li class="list-title"><h2><span>2009-06-01 | Views 11198</span><a href="?CID=10" target="_blank">SEO实战分析－网站优化全过程</a></h2><p class="list-abstract">SEO实战分析－网站优化全过程页面主题优化 一个页面的部分是很重要的，许多SEO都坚信，Google会优先寻找这里的文字，因此好多网站就疯狂的在这里写下一堆关键字，希望增加被搜索的概率，就像我们的“泊头市蓝天环保设备制造有限责任公司”一样:</p></li><li class="list-title"><h2><span>2009-06-01 | Views 9948</span><a href="?CID=9" target="_blank">SEO工具,站长必备</a></h2><p class="list-abstract">SEO工具,站长必备</p></li><li class="list-title"><h2><span>2009-06-01 | Views 10245</span><a href="?CID=8" target="_blank">搜索引擎的工作原理－搜索引擎是如何工作的</a></h2><p class="list-abstract">全文搜索引擎从网站提取信息建立网页数据库的概念。搜索引擎的自动信息搜集功能分两种。一种是定期搜索，即每隔一段时间（比如Google一般是28天），搜索引擎主动派出“蜘蛛”程序，对一定IP地址范围内的互联网站进行检索，一旦发现新的网站，它会自动提取网站的信息和网址加入自己的数据库。另一种是提交网站搜索，即网站拥有者主动向搜索引擎提交网址，它在一定时间内（2天到数月不等）定向向你的网站派出“蜘蛛”程序，扫描你的<li class="list-title"><h2><span>2009-05-28 | Views 8774</span><a href="?CID=7" target="_blank">十大网络营销的秘籍之网站推广</a></h2><p class="list-abstract">当你在最初阶段开始您的网上主页业务，您将需要正确地促经营它和您的网站。当然，一些网络营销技术，将使您更加有效地工作，所以有一些研究和实践能够确定哪些将是最有效的适合您。下面列出的最佳网络营销技术，将改善您的网站推广和提高您的搜索引擎排名</p></li><li class="list-title"><h2><span>2009-05-28 | Views 10178</span><a href="?CID=6" target="_blank">如何提高网站pr值及在百度、谷歌中的排名呢</a></h2><p class="list-abstract">如何提高网站的pr值以及在百度、谷歌中的排名呢</p></li><li class="list-title"><h2><span>2009-05-28 | Views 9322</span><a href="?CID=5" target="_blank">google多长时间更新pr值呢</a></h2><p class="list-abstract">google多长时间更新一次pr值呢</p></li><li class="list-title"><h2><span>2009-05-28 | Views 9605</span><a href="?CID=4" target="_blank">如何快速提高网站pr值</a></h2><p class="list-abstract">我的一个网站在GOOGLE的排名非常低，不知道怎样才能快速提高PR值，便于搜索引擎的排名?建成了一个有着优质内容的好网站，并将它提交到搜索引擎。几个月后，或者数年之后它开始获得骄人的PR值，而这一切都来自于您的辛勤付出和废寝忘食的工作。您现在对自己说：天道酬勤。然后开始庆祝。 但是还有一个非常重要的问题，您应当问自己：我如何保持当前的成就，甚至让它变得更好？如果您能很好地回答这个问题.</p></li></ul>
+<form class="pagecount" onsubmit="location.replace('?PAGEList=9956869-13-'+this.PageNumber.value);return false">
+	<div class="PageNumbers">
+		<span>1</span><a href="?PAGEList=9956869-13-2">2</a>
+	</div>
+	<div class="PageInfo">
+		<span>13</span>记录　每页<span>10</span>条<input type="text" size=3 name="PageNumber" value="1" /><input type="submit" value="Go" class="bt" />
+	</div>
+</form>
+
+				</div>
+
+			</div>
+		</div>
+				<div id="sidebar">
+			<div class="conBox">
+				<h3>
+					<span class="moreLink"><a href="../User/UserSponsored.asp" class="red">我也要出现在这里</a> | <a href="http://www.dmozdir.org/Commend.asp">更多</a></span>
+					<strong>最新推荐</strong>
+				</h3>
+				<ul class="weblist"><li><div class="img-preview"><a href="http://www.dmozdir.org/SiteInformation/?www.chb01.cn-----7172-----.shtml"><img src="../UploadImage/month-04-28/dsdlu620090428131912.jpg" alt="袋式脉冲除尘器
+Powered by DMOZ中文网站分类目录 DmozDir.org" /></a></div>
+<div class='content'><h4><a href="http://www.chb01.cn" target="_blank">袋式脉冲除尘器</a></h4>
+<p>生产除尘器,除尘配件,除尘骨架,除尘布袋,脉冲电磁阀,控制仪,气缸的企业。</p>
+<address>www.chb01.cn</address>
+</div></li>
+<li><div class="img-preview"><a href="http://www.dmozdir.org/SiteInformation/?www.chuchenhb.com-----11893-----.shtml"><img src="../UploadImage/month-01-15/m4c99420100115121145.jpg" alt="除尘器除尘布袋除尘骨架-宏宇环保
+Powered by DMOZ中文网站分类目录 DmozDir.org" /></a></div>
+<div class='content'><h4><a href="http://www.chuchenhb.com" target="_blank">除尘器除尘布袋除尘骨架-宏宇环保</a></h4>
+<p>除尘器,除尘配件,除尘骨架,除尘布袋,脉冲电磁阀,控制仪,气缸的专业生产企业。</p>
+<address>www.chuchenhb.com</address>
+</div></li>
+</ul>
+			</div>
+			<div class="conBox">
+                                <h3><a href="../jzgd.asp" target="_blank">建站归档</a> | <a href="../zxgd.asp" target="_blank">资讯归档</a></h3>
+<script>
+var mediav_ad_pub = '2KWB36_1975884';
+var mediav_ad_width = '258';
+var mediav_ad_height = '800';
+</script>
+<script type="text/javascript" language="javascript" charset="utf-8"  src="//static.mediav.com/js/mvf_g2.js"></script>
+			</div>
+		</div>
+
+	</div>
+
+	<!--s=footer--><div id="footer">
+		<div class="footnav">
+			<ul>
+				<li><a href="http://www.dmozdir.org/About/">关于我们</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserHelp.asp">帮助中心</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserSponsored.asp">广告赞助</a></li>
+				<li><a href="http://www.dmozdir.org/User/UserPublish.asp?Action=Add">提交网站</a></li>
+				<li><a href="http://www.dmozdir.org/New.asp">最新加入</a></li>
+				<li><a href="http://www.dmozdir.org/Commend.asp">最新推荐</a></li>
+				<li><a href="javascript:;" target="_self" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.dmozdir.org');return false;">设为首页</a></li>
+				<li><a href="Javascript:;" _fcksavedurl="Javascript:;" onclick='fAddFavorite("DMOZ中文网站分类目录","http://www.dmozdir.org")'>收藏本站</a></li>
+			</ul>
+		</div></div>
+<p align="center">&copy; 2009  <span><a href="http://www.dmozdir.org"><strong>DmozDir</strong></a></span> 冀ICP备08100951号 <a href="http://www.dmozdir.org/tjshoulu.html" target="_blank"><font color="#ff0000"><b>DMOZ目录快速登录入口</b></font></a>
+		<p class="red" align="center"><span>网站免费登录，新收录网站首页显示，所有排名全自动实时刷更新，网站推广的最佳选择就在<strong>DMOZ中文网站分类目录</strong></span></p>
+</div>
+<span style=display:none>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17e3ebb4cde1f3be101d65b0fe34af33";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</span>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>

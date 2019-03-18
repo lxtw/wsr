@@ -1,0 +1,22 @@
+property使用:
+x=property(fget,fset,fdel)
+当获取x时，则执行x=fget
+当设置x时，则执行fset（x）
+当删除x时，则执行fdel（x）
+
+class Rectangle(object):
+	def __init__(self):
+		self.width = 0
+		self.height = 0
+
+	def setSize(self, size):
+		self.width, self.height = size
+
+	def getSize(self):
+		return self.width, self.height
+
+	def delSize(self):
+		del (self.width, self.height)
+
+	x = property(getSize, setSize, delSize, 'This is a property example.')
+这里x获取的值是两个，以元组的形式显示，当然x给设置值的时候也要设置两个，以元组的形式

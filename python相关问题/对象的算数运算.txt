@@ -1,0 +1,92 @@
+class New_int(int):
+	def __add__(self,other):
+		return int.__sub__(self,other)
+	def __sub__(self,other):
+		return int.__add__(self,other)
+
+	
+>>> a=New_int(3)
+>>> a
+3
+>>> b=New_int(5)
+>>> b
+5
+>>> a-b
+8
+>>> a+b
+-2
+>>> a.__add__(b)
+-2
+>>> a.__sub__(b)
+8
+>>> a+3
+0
+>>> a-3
+6
+>>> 3+a
+6
+>>> int.__sub__(3,5)
+-2
+>>> 3-a
+0
+
+从上可以看出对象也是可以进行运算的，对象进行运算实际是对象的属性进行运算，
+且运算符是跟随前面一个对象的，即调用前一个对象的运算符，
+
+>>> a+3  #“+”加号是调用a的加号，即a对象的加法运算，即继承New_int的加法运算
+0
+>>> 3+a  #“+”加号是调用3的加号，即3对象的加法运算，也即继承int的加法运算
+6
+a.__sub__(b)=a-b
+a.__add__(b)=a+b
+
+错例：
+class New_int(int):
+	def __add__(self,other):
+		return self+other
+	def __sub__(self,other):
+		return self+other
+
+	
+>>> 
+>>> a=New_int(3)
+>>> 
+>>> b=New_int(5)
+>>> a
+3
+>>> b
+5
+>>> a+b
+Traceback (most recent call last):
+  File "<pyshell#266>", line 1, in <module>
+    a+b
+  File "<pyshell#259>", line 3, in __add__
+    return self+other
+  File "<pyshell#259>", line 3, in __add__
+    return self+other
+  File "<pyshell#259>", line 3, in __add__
+    return self+other
+  [Previous line repeated 990 more times]
+RecursionError: maximum recursion depth exceeded
+
+正例：
+class New_int(int):
+	def __add__(self,other):
+		return int(self)+other
+	def __sub__(self,other):
+                return int(self)-other
+
+        
+>>> 
+>>> 
+>>> a=New_int(3)
+>>> b=New_int(5)
+>>> a
+3
+>>> b
+5
+>>> a+b
+8
+>>> a-b
+-2
+>>>  
